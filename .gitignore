@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/crawler/.vs/
+/crawler/crawler/x64/Debug
+/crawler/Debug
+/crawler/x64/Debug
